@@ -1,10 +1,10 @@
-## Hi there 👋
+this is the official github org for open.engineering
 
-**Here are some ideas to get you started:**
+![banner](https://github.com/open-eng/.github/blob/main/logo%20big.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+this is more a prototyping space than anything else
+
+forked repositories are porjects of interest
+
+:construction:
 
